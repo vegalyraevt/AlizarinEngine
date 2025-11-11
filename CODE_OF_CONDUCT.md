@@ -35,6 +35,9 @@ Examples of unacceptable behavior include:
   address, without their explicit permission
 * Other conduct which could reasonably be considered inappropriate in a
   professional setting
+* Advocating for, or participating in, the piracy of commercial voice synthesis software or the unauthorized "ripping" of voice data.
+* Using project channels (Issues, Discord, etc.) to request or share content that violates the project's core ethical guidelines (e.g., creating hateful content, deepfake fraud, or non-consensual impersonation).
+* Distributing modified or unmodified voicebank files (including ALIZARIN's or community voices) in a way that violates their specific End User License Agreement (EULA).
 
 ## Enforcement Responsibilities
 
