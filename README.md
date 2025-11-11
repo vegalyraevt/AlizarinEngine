@@ -158,11 +158,15 @@ This repository will be updated with generalized, open-source scripts (licensed 
 
 The following goals represent tangible product releases and services that will be delivered upon successful funding.
 
-| Goal | Description |
-| :--- | :--- |
-| **Upgrade 1: Finetune Duo Voice Pack** | **HARD GOAL (Singing/Data):** Fund the complete process of generating, training, and releasing the **two pre-trained DiffSinger Community Base Models** and their raw, untextured synthetic training data. This includes all required server time and R&D hours to train two models from scratch. |
-| **Upgrade 2: Finetune Duo TTS Pack** | **HARD GOAL (Speaking/TTS):** Fund the process of generating **TTS-specific datasets** and **fine-tuning** the base MeloTTS model with the new speakers. This results in the release of the two pre-trained **MeloTTS Community Base Models**, making custom TTS creation easier for users. |
-| **Upgrade 3: Public RVC Sandbox** | Release a specialized Python/Colab notebook for easy, localized, fine-tuning of the base models into a real-time RVC voice changer. |
+> **Please Note:** These goal amounts are **early estimates** based on estimated current server costs and R&D requirements. They are subject to change if we encounter unforeseen technical difficulties or significant changes in cloud computing costs. We will be 100% transparent with the community about any adjustments needed. This is almost entirely covering training costs and is not allocated to be paying much for the development time. The project is a work of passion and will still likely take a heavy loss on development if we only meet 2 goals or less.
+
+| Goal | Description | Cost |
+| :--- | :--- | :--- |
+| **Upgrade 1: Finetune Duo Voice Pack** | **HARD GOAL (Singing/Data):** Fund the complete process of generating, training, and releasing the **two pre-trained DiffSinger Community Base Models** and their raw, untextured synthetic training data. This includes all required server time and R&D hours to train two models from scratch. | **$750** |
+| **Upgrade 2: Finetune Duo TTS Pack** | **HARD GOAL (Speaking/TTS):** Fund the process of generating **TTS-specific datasets** and **fine-tuning** the base MeloTTS model with the new speakers. This results in the release of the two pre-trained **MeloTTS Community Base Models**, making custom TTS creation easier for users. | **$900** |
+| **Upgrade 3: Public RVC Sandbox** | Release a specialized Python/Colab notebook for easy, localized, fine-tuning of the base models into a real-time RVC voice changer. | **$1050** |
+| **Upgrade 4: "ALIZARIN Streamer" TTS App** | Develop and release a **standalone desktop application** (`.exe`) for streamers. This tool will provide a user-friendly GUI for the TTS engine, connecting to Twitch (for bits/redeems/etc) and allowing users to plug in the two Community Models or their own custom-trained ALIZARIN voices. | **$1300** |
+
 
 ---
 
