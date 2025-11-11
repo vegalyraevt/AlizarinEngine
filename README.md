@@ -29,6 +29,8 @@
 | :--- | :--- | :--- |
 | 🛠️ In-Development | ⚖️ LGPL-3.0 | 🧑‍💻 Welcomes Contributions |
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z01O94XK)
+
 > The ALIZARIN Engine is currently in **Phase 1: Foundation & Data Generation**. This project is being developed live on stream as a public-facing R&D process.
 
 ***
