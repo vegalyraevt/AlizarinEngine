@@ -1,0 +1,25 @@
+name: 📖 Documentation Fix
+description: Report a typo, broken link, or unclear section in the documentation.
+title: "[DOCS] - "
+labels: ["documentation"]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: What's the issue?
+      description: "Please describe the typo, broken link, or confusing part of the documentation."
+    validations:
+      required: true
+  - type: input
+    id: location
+    attributes:
+      label: Where is the issue?
+      description: "Please paste the URL or file name where you found the issue."
+      placeholder: "e.g., README.md or USAGE_GUIDE.md"
+    validations:
+      required: true
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: (Optional) Suggested Fix
+      description: "If you have a moment, how would you re-word it to be clearer?"
