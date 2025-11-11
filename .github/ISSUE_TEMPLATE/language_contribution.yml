@@ -1,0 +1,40 @@
+name: 🗣️ Language & Phonemizer Contribution
+description: Offer help with testing or integrating a new language.
+title: "[LANG] - Help with [LANGUAGE_NAME]"
+labels: ["conditional-goal", "help wanted", "documentation"]
+body:
+  - type: markdown
+    attributes:
+      value: "This is fantastic! Thank you for offering to help with one of our Conditional Goals. Please fill out the details below."
+  - type: input
+    id: language
+    attributes:
+      label: What language can you help with?
+      placeholder: "e.g., Japanese, Spanish, German"
+    validations:
+      required: true
+  - type: dropdown
+    id: experience
+    attributes:
+      label: What is your experience with this language?
+      options:
+        - Native Speaker
+        - Fluent
+        - Proficient / Conversational
+    validations:
+      required: true
+  - type: checkboxes
+    id: help-type
+    attributes:
+      label: What can you help with?
+      description: Select all that apply.
+      options:
+        - label: "Testing / Validating phonemizer output (e.g., 'Does this sound correct?')"
+        - label: "Helping to integrate an open-source phonemizer"
+        - label: "Translating documentation"
+        - label: "Other (please describe below)"
+  - type: textarea
+    id: context
+    attributes:
+      label: Additional Context
+      description: "Any other details, links to existing tools, or comments you have. (e.g., 'I am a native Japanese speaker and have experience with the Jumanji phonemizer.')"
