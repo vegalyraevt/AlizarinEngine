@@ -87,12 +87,13 @@ The following points are **not** requirements or conditions of the LGPLv3 licens
 
 ***
 
-## 📖 Usage Guidelines Overview
+## 📖 Documentation & Guidelines
 
-This section summarizes the usage policies. For a detailed guide, enforcement suggestions, Q&A, and the special usage request form, please refer to the dedicated documentation pages:
+This section summarizes the project's core documentation. For full details, please refer to the dedicated pages:
 
-* [**USAGE GUIDE**]: Detailed Enforcement Suggestions, Usage Q&A, and full policy text.
-* [**ALIZARIN Rights Page**]: Detailed terms for the primary voice, including the special usage request form.
+* [**VOICE EULA & GUIDELINES**](USAGE_GUIDE.md): The full EULA and IP rules for the primary ALIZARIN voice, plus the special usage request form.
+* [**CREATOR'S GUIDE**](CREATOR_GUIDE.md): Detailed suggestions, Q&A, and best practices for creating and protecting your *own* voice and character IP.
+* [**THIRD-PARTY LICENSES**](THIRD_PARTY_LICENSES.md): A full list of the open-source software that powers this engine and their licenses.
 
 ### I. Voice IP Requirements (The Sound)
 
