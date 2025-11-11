@@ -30,10 +30,6 @@ The following open-source projects are used directly by the ALIZARIN Engine's fr
     * **License:** MIT License
     * **Link:** [https://opensource.org/licenses/MIT](https://opensource.org/licenses/MIT)
 
-* **Project:** [WavRS (OpenUTAU Renderer)](https://github.com/stakira/OpenUtau/tree/main/OpenUtau.Core/Wavrs)
-    * **License:** MIT License
-    * **Link:** [https://opensource.org/licenses/MIT](https://opensource.org/licenses/MIT)
-
 * **Project:** [FastAPI](https://github.com/tiangolo/fastapi)
     * **License:** MIT License
     * **Link:** [https://opensource.org/licenses/MIT](https://opensource.org/licenses/MIT)
