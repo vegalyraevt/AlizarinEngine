@@ -201,7 +201,7 @@ The ALIZARIN Engine is not a single piece of software, but an integrated pipelin
 | **Real-Time TTS** | [MeloTTS](https://github.com/myshell-ai/MeloTTS) | (Apache 2.0) The engine for the real-time, low-latency TTS. |
 | **AI Singing Voice** | [DiffSinger (Amphion)](https://github.com/open-mmlab/Amphion) | (MIT) The engine for the high-quality, expressive AI singing model. |
 | **Concatenative Singing**| [OpenUTAU](https://github.com/stakira/OpenUtau) | (MIT) The editor and platform for the "classic" UTAU voicebank. |
-| **Concatenative Engine** | [WavRS](https://github.com/stakira/OpenUtau/tree/main/OpenUtau.Core/Wavrs) | (MIT) The real-time UTAU renderer server for TTS/live-singing. |
+| **Concatenative Engine** | [WavRS](https://github.com/stakira/OpenUtau) | (MIT) The real-time UTAU renderer server for TTS/live-singing. |
 | **Internal API Blueprint** | [`speech-to-text-to-teto`](https://github.com/acrylicc/speech-to-text-to-teto) | (No License) Inspiration and blueprint for the internal `.ust`-generating script. |
 | **API & Deployment** | [FastAPI](https://fastapi.tiangolo.com/) | (MIT) The framework for building all public (commercial) and internal (streaming) API endpoints. |
 
