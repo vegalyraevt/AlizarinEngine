@@ -4,6 +4,9 @@ This document details the full End User License Agreement (EULA) for the primary
 
 **This license applies to the proprietary VOICE DATA and CHARACTER IP. It does NOT apply to the ALIZARIN Engine framework, which is licensed separately under the LGPLv3.**
 
+[**◀ Back to Project Home (README.md)**](README.md) | [**Creator's Guide**](CREATOR_GUIDE.md) | [**Third-Party Licenses**](THIRD_PARTY_LICENSES.md)
+***
+
 ---
 
 ## I. ALIZARIN Voice EULA (The Sound)
