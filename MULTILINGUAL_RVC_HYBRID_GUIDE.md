@@ -100,7 +100,7 @@ To facilitate this workflow, we have a **dedicated channel** for voice developme
 
 This is the best place for "Timbre Creators" (Alizarin users) and "Performance Providers" (VAs) to connect and collaborate.
 
-### Join the AlGlow Den:
+### Join the Discord:
 * **Discord:** [Join the Alizarin Engine Discord!](https://discord.gg/6c4yTrMqRt)
 * **Collaboration Channel:** Look for the `#va-collab` channel (or a similar name) to find a partner or offer your services.
 
