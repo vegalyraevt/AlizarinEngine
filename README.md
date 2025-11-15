@@ -89,7 +89,8 @@ The following points are **not** requirements or conditions of the LGPLv3 licens
 
 This section summarizes the project's core documentation. For full details, please refer to the dedicated pages:
 
-* [**VOICE EULA & GUIDELINES**](USAGE_GUIDE.md): The full EULA and IP rules for the primary ALIZARIN voice, plus the special usage request form.
+* [**VOICE EULA & GUIDELINES (USAGE_GUIDE.md)**](USAGE_GUIDE.md): **(READ FIRST)** The full EULA, IP rules for the primary ALIZARIN voice, and the special usage request form.
+* [**MULTILINGUAL_RVC_HYBRID_GUIDE.md**](MULTILINGUAL_RVC_HYBRID_GUIDE.md): The official guide for creating voicebanks in other languages. This is the *only* potentially permitted exception to our "no-AI-training" rule.
 * [**CREATOR'S GUIDE**](CREATOR_GUIDE.md): Detailed suggestions, Q&A, and best practices for creating and protecting your *own* voice and character IP.
 * [**THIRD-PARTY LICENSES**](THIRD_PARTY_LICENSES.md): A full list of the open-source software that powers this engine and their licenses.
 
