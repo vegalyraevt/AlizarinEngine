@@ -3,7 +3,7 @@
 
 # ALIZARIN Engine - Full Usage Guidelines & EULA
 
-This document details the full End User License Agreement (EULA) for the primary ALIZARIN voice (the codename voice) and the full Character IP License.
+This document details the full End User License Agreement (EULA) for the primary ALIZARIN voice and the full Character IP License.
 
 **This license applies to the proprietary VOICE DATA and CHARACTER IP. It does NOT apply to the ALIZARIN Engine framework, which is licensed separately under the LGPLv3.**
 
@@ -28,7 +28,8 @@ This EULA governs the use of the actual sound files and voice data (`.wav`, `.us
 3.  **R-18/Adult Content:** You may **not** use the voice for sexually explicit (R-18) content unless you have received explicit written permission via the "Special Usage Request Form."
 4.  **Religious/Political Usage:** You may **not** use the voice to create content that promotes a specific political party, candidate, or religious dogma.
 5.  **Voice Redistribution:** You may **not** share, re-upload, sell, or redistribute the voice files in any way. All users must be directed to the official download page to acquire the files and agree to this EULA.
-6.  **Voice Alterations/Modifications (Training):** You may **not** use the voice data or audio output for machine learning, training, fine-tuning, voice conversion, re-sampling, or creating a new/edited voicebank. This is strictly prohibited. If you wish to convert the voice to another format or engine please reach out via the "Special Usage Request Form." 
+6.  **Voice Alterations/Modifications (Training):** You may **not** use the voice data or audio output for machine learning, training, fine-tuning, voice conversion, re-sampling, or creating a new/edited voicebank. This is strictly prohibited. If you wish to convert the voice to another format or engine please reach out via the "Special Usage Request Form."
+>  **Conditional Exception:** A specific workflow for creating multilingual voicebanks is permitted *only* if you follow the mandatory ethical rules and process. See the [**MULTILINGUAL_RVC_HYBRID_GUIDE.md**](MULTILINGUAL_RVC_HYBRID_GUIDE.md) for these terms.
 
 ---
 
